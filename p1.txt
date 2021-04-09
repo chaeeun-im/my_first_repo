@@ -1,5 +1,7 @@
 1. first story
 2. second story
-3.-- main work --
+3. -- main work --
 4.
-5.-- feature work --
+5. -- feature work --
+6. feature story1 
+7. feature story2
